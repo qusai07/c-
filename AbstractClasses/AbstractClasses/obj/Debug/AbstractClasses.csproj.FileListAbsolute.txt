@@ -1,0 +1,8 @@
+C:\Users\Qusai\source\repos\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Qusai\source\repos\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Qusai\source\repos\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Qusai\source\repos\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\Qusai\source\repos\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Qusai\source\repos\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Qusai\source\repos\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Qusai\source\repos\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb

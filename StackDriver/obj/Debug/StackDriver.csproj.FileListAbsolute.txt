@@ -1,0 +1,3 @@
+C:\Users\Qusai\source\repos\StackDriver\StackDriver\obj\Debug\StackDriver.csproj.AssemblyReference.cache
+C:\Users\Qusai\source\repos\StackDriver\StackDriver\obj\Debug\StackDriver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Qusai\source\repos\StackDriver\StackDriver\obj\Debug\StackDriver.csproj.CoreCompileInputs.cache

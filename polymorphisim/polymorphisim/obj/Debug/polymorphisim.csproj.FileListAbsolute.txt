@@ -1,0 +1,8 @@
+C:\Users\Qusai\source\repos\polymorphisim\polymorphisim\bin\Debug\polymorphisim.exe.config
+C:\Users\Qusai\source\repos\polymorphisim\polymorphisim\bin\Debug\polymorphisim.exe
+C:\Users\Qusai\source\repos\polymorphisim\polymorphisim\bin\Debug\polymorphisim.pdb
+C:\Users\Qusai\source\repos\polymorphisim\polymorphisim\obj\Debug\polymorphisim.csproj.AssemblyReference.cache
+C:\Users\Qusai\source\repos\polymorphisim\polymorphisim\obj\Debug\polymorphisim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Qusai\source\repos\polymorphisim\polymorphisim\obj\Debug\polymorphisim.csproj.CoreCompileInputs.cache
+C:\Users\Qusai\source\repos\polymorphisim\polymorphisim\obj\Debug\polymorphisim.exe
+C:\Users\Qusai\source\repos\polymorphisim\polymorphisim\obj\Debug\polymorphisim.pdb
